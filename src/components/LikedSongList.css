@@ -1,0 +1,9 @@
+.colNames {
+    border-bottom: 1px solid white;
+    padding: 2px 10px;
+    max-width: 96%;
+    margin-left: 4vh;
+    background-color: #121212;
+    position: sticky;
+    top: 8vh;
+}

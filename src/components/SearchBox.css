@@ -1,0 +1,11 @@
+.searchbox {
+    position: relative;
+    overflow: hidden;
+}
+.searchbox__image {
+    width: 100px;
+    transform: rotate(-45deg);
+    margin-left: 23vh;
+    margin-top: 23vh;
+    border-radius: 2vh;
+}

@@ -1,0 +1,32 @@
+@media only screen and (max-width: 600px) {
+    .sidebar {
+        max-width: 15vh;
+        height: 90vh;
+    }
+    .sidebar__text {
+        font-size: 1.2vh;
+        display: flex;
+        align-items: center;
+    }
+    .spotify-icon {
+        width: 4vh;
+    }
+    .spotify__header {
+        font-size: 1.5vh;
+    }
+    .pages {
+        padding: 1px;
+        transform: translateX(-4px);
+    }
+    .icon{
+        max-width: 3vh;
+    }
+    
+}
+.sidebar__text {
+    color: #c1c1c1;
+    transition: 0.3s color ease-in;
+}
+.sidebar__text:hover {
+    color: #aaaaaa;
+}

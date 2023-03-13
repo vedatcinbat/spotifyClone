@@ -1,0 +1,22 @@
+.navbar {
+    min-height: 8vh;
+    position: sticky;
+    top: 0;
+}
+.iconPlayer{
+    opacity: 0;
+}
+
+.goodEveningBox:hover .iconPlayer {
+    opacity: 1;
+    transition: 0.4s all ease-in-out;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.imgGoodEvening {
+    border-top-left-radius: 1vh;
+    border-bottom-left-radius: 1vh;
+}
